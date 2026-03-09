@@ -1,0 +1,5 @@
+# 让 GitHub 识别 PHP + UniApp(Vue)
+*.php linguist-language=PHP
+*.vue linguist-language=Vue
+*.nvue linguist-language=Vue
+*.js linguist-language=JavaScript
