@@ -40,22 +40,21 @@ MyVideoShop 是一套专注于短视频带货的电商系统，采用 Uniapp 前
 3.  提供基础技术支持与部署指导
 
 ## 联系方式
-  QQ 
+可用于商务合作、定制开发、技术咨询
+QQ : 178034435
 
-![输入图片说明](ScreenShot_2026-03-02_152533_332.png)
-![输入图片说明](ScreenShot_2026-03-02_151747_525.png)
-![输入图片说明](ScreenShot_2026-03-02_152533_332.png)
-![输入图片说明](ScreenShot_2026-03-02_152619_381.png)
-![输入图片说明](ScreenShot_2026-03-02_152634_861.png)
-![输入图片说明](ScreenShot_2026-03-02_152929_885.png)
+<img width="1898" height="901" alt="ScreenShot_2026-03-02_151747_525" src="https://github.com/user-attachments/assets/6fdc8fab-135b-48a2-bdbb-a973f377f6e1" />
+<img width="1913" height="902" alt="ScreenShot_2026-03-02_152533_332 (1)" src="https://github.com/user-attachments/assets/1a1ba9bf-eae6-4d0e-807f-93712fce7b7c" />
+<img width="1919" height="917" alt="ScreenShot_2026-03-02_152619_381" src="https://github.com/user-attachments/assets/86b4bb72-dd81-44aa-979d-7225802538c9" />
+<img width="1894" height="891" alt="ScreenShot_2026-03-02_152634_861" src="https://github.com/user-attachments/assets/548ae801-7ea0-403a-9d1e-5ea76f8de810" />
+<img width="1872" height="883" alt="ScreenShot_2026-03-02_152929_885" src="https://github.com/user-attachments/assets/2c3d7f54-f5ee-4972-a966-e3c6595d0caa" />
 
 
-![输入图片说明](ScreenShot_2026-03-02_153321_673.png)
-![输入图片说明](ScreenShot_2026-03-02_152236_538.png)
-![输入图片说明](ScreenShot_2026-03-02_152117_698.png)
-![输入图片说明](ScreenShot_2026-03-02_152021_186.png)
-![输入图片说明](ScreenShot_2026-03-02_152053_442.png)
-![输入图片说明](ScreenShot_2026-03-02_153154_218.png)
-![输入图片说明](ScreenShot_2026-03-02_153239_657.png)
-![输入图片说明](ScreenShot_2026-03-02_152258_090.png)
-![输入图片说明](ScreenShot_2026-03-02_153908_826.png)
+<img width="380" height="819" alt="ScreenShot_2026-03-02_152021_186" src="https://github.com/user-attachments/assets/3158fe30-23d4-4a52-983d-a0e8b6f865e2" />
+<img width="381" height="830" alt="ScreenShot_2026-03-02_152053_442" src="https://github.com/user-attachments/assets/89ac11be-c8ea-402a-86e7-8bf7d189594d" />
+<img width="375" height="823" alt="ScreenShot_2026-03-02_152236_538" src="https://github.com/user-attachments/assets/34616f6f-7352-4cb2-8516-21014f68386e" />
+<img width="389" height="822" alt="ScreenShot_2026-03-02_152117_698" src="https://github.com/user-attachments/assets/6c471690-c1c1-40c0-8bec-afdd60f81aee" />
+<img width="370" height="816" alt="ScreenShot_2026-03-02_152258_090" src="https://github.com/user-attachments/assets/4dfae97e-2e9b-471c-9548-35ca6c02fbc5" />
+<img width="375" height="813" alt="ScreenShot_2026-03-02_153239_657" src="https://github.com/user-attachments/assets/f8682dae-7afb-42bf-9999-fdadeec020b4" />
+<img width="382" height="826" alt="ScreenShot_2026-03-02_153154_218" src="https://github.com/user-attachments/assets/247fc564-e63b-4df5-979b-14571d471a83" />
+<img width="380" height="827" alt="ScreenShot_2026-03-02_153321_673" src="https://github.com/user-attachments/assets/3344cb46-c93a-4737-bda4-ded38bc6078e" />
